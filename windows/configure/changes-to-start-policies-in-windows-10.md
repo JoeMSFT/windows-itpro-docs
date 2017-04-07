@@ -94,7 +94,7 @@ These policy settings are available in **Administrative Templates\\Start Menu an
 <td align="left"><p>This applies a specific Start layout, and it also prevents users from changing the layout. This policy can be configured in <strong>User Configuration</strong> or <strong>Computer Configuration</strong>.</p>
 <div class="alert">
 <strong>Note</strong>  
-<p>Start Layout policy setting applies only to Windows 10 Enterprise and Windows 10 Education.</p>
+<p>Start and taskbar layout control using Group Policy is supported in Windows 10 Enterprise and Windows 10 Education, version 1607. Start and taskbar layout control is supported in Windows 10 Pro in Windows 10, version 1703.</p>
 </div>
 <div>
  
